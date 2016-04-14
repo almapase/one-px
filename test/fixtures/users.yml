@@ -1,0 +1,6 @@
+# Read about fixtures at
+# http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+user:
+  email: 'user@mail.com'
+  password_digest: 'pa$$word'
